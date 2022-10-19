@@ -1,6 +1,6 @@
-[![MasterHead](/header.png)](https://github.com/Pranay-a-1)
+<!-- [![MasterHead](/header.png)](https://github.com/Pranay-a-1)
 
-<!-- 
+
 <h3 align="left" >Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pranay4a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
@@ -33,7 +33,7 @@
 ![](https://komarev.com/ghpvc/?username=Pranay-a-1) -->
 
 
-<h1 align="center">Hi 👋, I'm Pranay Alamalakala</h1>
+<h1 align="center">Hi 👋, I'm Pranay (Pran) Alamalakala</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranay-a-1&label=Profile%20views&color=0e75b6&style=flat" alt="pranay-a-1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranay-a-1&rank=-C,-B,&row=1&column=1" alt="pranay-a-1" /></a> </p>
