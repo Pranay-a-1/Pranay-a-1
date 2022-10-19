@@ -29,6 +29,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranay-a-1)](https://git.io/streak-stats)
 
+
+![](https://komarev.com/ghpvc/?username=Pranay-a-1)
 <!--
 ### Hi there 👋
 **Pranay-a-1/Pranay-a-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
