@@ -36,7 +36,7 @@
 <h1 align="center">Hi 👋, I'm Pranay Alamalakala</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranay-a-1&label=Profile%20views&color=0e75b6&style=flat" alt="pranay-a-1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranay-a-1&rank=S" alt="pranay-a-1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranay-a-1&rank=-C,-B" alt="pranay-a-1" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://pranay-a-1.github.io/portfolio/](https://pranay-a-1.github.io/portfolio/)
 
