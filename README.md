@@ -52,7 +52,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranay-a-1&show_icons=true&locale=en&layout=compact" alt="pranay-a-1" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pranay-a-1&show_icons=true&locale=en&hide=stars,issues" alt="pranay-a-1" /></p>
-
+</br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranay-a-1&" alt="pranay-a-1" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranay-a-1&label=Profile%20views&color=0e75b6&style=flat" alt="pranay-a-1" /> </p>
