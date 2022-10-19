@@ -12,7 +12,7 @@
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+	
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Pranay-a-1&show_icons=true&hide_border=true&hide=stars,issues" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
