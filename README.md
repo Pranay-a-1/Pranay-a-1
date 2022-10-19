@@ -27,7 +27,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranay-a-1)](https://git.io/streak-stats)
 
 <!--
 ### Hi there 👋
