@@ -36,7 +36,8 @@
 
 <h1 align="center">Hi 👋, I'm Pranay (Pran) Alamalakala</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranay-a-1&rank=-C,-B,&row=1&column=1" alt="pranay-a-1" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranay-a-1&rank=-C,-B,&row=1&column=1" alt="pranay-a-1" /></a></p>
+
 - 👨‍💻 All of my projects are available at [https://pranay-a-1.github.io/portfolio/](https://pranay-a-1.github.io/portfolio/)
 
 - 📫 How to reach me **pranay_a@outlook.com**
