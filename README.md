@@ -40,6 +40,7 @@
 - 👨‍💻 All of my projects are available at [https://pranay-a-1.github.io/portfolio/](https://pranay-a-1.github.io/portfolio/)
 
 - 📫 How to reach me **pranay_a@outlook.com**
+
 <!-- <div display="inline-block"><span> -->
 <!-- 	<h3 align="center" display="inline-block">Connect with me:</h3></span> -->
 <!--  <p align="center" display="inline-block"> -->
