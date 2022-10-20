@@ -42,7 +42,7 @@
 - 📫 How to reach me **pranay_a@outlook.com**
 
 <h3 float="left" display="inline-block">Connect with me:</h3>
-<p align="right" display="inline-block">
+<p float="right" display="inline-block">
 <a href="https://www.linkedin.com/in/pranay4a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranay4a" height="30" width="40" /></a>
 </p>
 
