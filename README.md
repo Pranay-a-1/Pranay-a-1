@@ -40,11 +40,11 @@
 - 👨‍💻 All of my projects are available at [https://pranay-a-1.github.io/portfolio/](https://pranay-a-1.github.io/portfolio/)
 
 - 📫 How to reach me **pranay_a@outlook.com**
-<!-- <div display="inline-block"><span>
-	<h3 align="center" display="inline-block">Connect with me:</h3></span>
- <p align="center" display="inline-block">
-<span><a href="https://www.linkedin.com/in/pranay4a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranay4a" height="30" width="40" /></a>
-	</span>< /div> -->
+<!-- <div display="inline-block"><span> -->
+<!-- 	<h3 align="center" display="inline-block">Connect with me:</h3></span> -->
+<!--  <p align="center" display="inline-block"> -->
+<!-- <span><a href="https://www.linkedin.com/in/pranay4a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranay4a" height="30" width="40" /></a> -->
+<!-- 	</span>< /div> -->
 	
 	<p><span font-weight="large">Connect with me:</span><span><a href="https://www.linkedin.com/in/pranay4a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranay4a" height="30" width="40" /></a></span></p>
 
